@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">YOGHURT</string>
+
+
+    <string-array name="a">
+        <item><b>Pilih Rasa Yoghurt</b></item>
+        <item>Original</item>
+        <item>Coklat</item>
+        <item>Durian</item>
+        <item>Leci</item>
+        <item>Mangga</item>
+        <item>Melon</item>
+        <item>Moka</item>
+        <item>Nangka</item>
+        <item>Sirsak</item>
+        <item>Strawberry</item>
+        <item>Anggur</item>
+    </string-array>
+
+    <string-array name="b">
+        <item><b>Pilih Topping</b></item>
+        <item>Candy</item>S
+        <item>Oreo</item>
+        <item>Jelly</item>
+        <item>Ice Cream</item>
+        <item>trawberry</item>
+        <item>Mango</item>
+        <item>Dark Chocolate Chips</item>
+    </string-array>
+
+    <string-array name="c">
+        <item><b>Pilih Ukuran Botol</b></item>
+        <item>250 ml</item>
+        <item>500 ml</item>
+        <item>1000 ml</item>
+    </string-array>
+
+    <string-array name="d">
+        <item><b>Rekening</b></item>
+        <item>BNI</item>
+        <item>BCA</item>
+        <item>MANDIRI</item>
+        <item>BRI</item>
+        <item>VISA/MASTERCARD</item>
+    </string-array>
+
+</resources>
